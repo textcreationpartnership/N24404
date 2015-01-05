@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:032304_0000_0FF1BBE4DEEF01A0"/>
-            <pb facs="tcp:032304_0001_0FF1BBB1EAB12F18"/>
+            <pb facs="unknown:032304_0000_0FF1BBE4DEEF01A0"/>
+            <pb facs="unknown:032304_0001_0FF1BBB1EAB12F18"/>
             <p>WIVES AS THEY WERE, AND MAIDS AS THEY ARE:</p>
             <p>A <hi>COMEDY,</hi> IN FIVE ACTS.</p>
             <p>PERFORMED AT THE LONDON AND DUBLIN THEATRES WITH UNIVERSAL APPLAUSE—AND AT GREENWICH-STREET, N. YORK.</p>
@@ -126,8 +126,8 @@
             <p>1797.</p>
          </div>
          <div type="prologue">
-            <pb facs="tcp:032304_0002_0FF1BBB371DB7D20"/>
-            <pb facs="tcp:032304_0003_0FF1BBB8156DEA88"/>
+            <pb facs="unknown:032304_0002_0FF1BBB371DB7D20"/>
+            <pb facs="unknown:032304_0003_0FF1BBB8156DEA88"/>
             <head>PROLOGUE—By a FRIEND, Spoken by Mr. WADDY.</head>
             <lg>
                <l>I <hi>COME not to announce a baſhful Maid</hi>
@@ -253,7 +253,7 @@
             </lg>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:032304_0004_0FF1BBBCA25FD1E8"/>
+            <pb facs="unknown:032304_0004_0FF1BBBCA25FD1E8"/>
             <head>DRAMATIS PERSONAE.</head>
             <head>COVENT-GARDEN.</head>
             <list>
@@ -374,7 +374,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:032304_0005_0FF1BBBE29C2EB00"/>
+            <pb facs="unknown:032304_0005_0FF1BBBE29C2EB00"/>
             <head>WIVES AS THEY WERE, AND MAIDS AS THEY ARE.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -419,7 +419,7 @@
                      <p>But do not charge this conduct of your daugh<g ref="char:EOLhyphen"/>ter to the want of filial lov<gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
                         </gap>—did ſhe know you were Sir
-<pb n="6" facs="tcp:032304_0006_0FF1BBBFB1698940"/>
+<pb n="6" facs="unknown:032304_0006_0FF1BBBFB1698940"/>
 William Dorrillon, did ſhe know you were her father, every word you uttered, every look you glanced, would be received with gentleneſs and ſubmiſſion:—but your preſent rebukes from Mr. Mandred (as you are called) from a perfect ſtran<g ref="char:EOLhyphen"/>ger, as ſhe ſuppoſes, ſhe conſiders as an impertinence which ſhe has a right to reſent.</p>
                   </sp>
                   <sp>
@@ -471,7 +471,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                         </gap>ied in her grave.</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:032304_0007_0FF1BBC1413710D0"/>
+                     <pb n="7" facs="unknown:032304_0007_0FF1BBC1413710D0"/>
                      <speaker>Mr. <hi>Nor.</hi>
                      </speaker>
                      <p>And, in all this great town, you may never ſee even its apparition.</p>
@@ -550,7 +550,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      </p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:032304_0008_0FF1BBC74AAC0A58"/>
+                     <pb n="8" facs="unknown:032304_0008_0FF1BBC74AAC0A58"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>And they had reaſon to be ſo; for their wives obeyed them. The ancients ſeldom gave them the li<g ref="char:EOLhyphen"/>berty to do wrong: but modern wives do as they like.</p>
@@ -634,7 +634,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <p>And ſo ſhe becomes tired before night.</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:032304_0009_0FF1BBCA571FFF88"/>
+                     <pb n="9" facs="unknown:032304_0009_0FF1BBCA571FFF88"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>Tired to death. Or, if I ſee her eyes completely open at bed-time, and ſhe aſks me to play one game more at picquet, the next morning I jog her elbow at half after four.</p>
@@ -717,7 +717,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <p>For theſe ladies, notwithſtanding a few (what <hi>you</hi> would call) exceſſes, I will anſwer.</p>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:032304_0010_0FF1BBCD621C2998"/>
+                     <pb n="10" facs="unknown:032304_0010_0FF1BBCD621C2998"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>Well, then, I and my wife will be with you about nine in the evening; you know we go to bed at ten.</p>
@@ -813,7 +813,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <stage>(<hi>Exeunt Sir</hi> William <hi>and Mr.</hi> Norberry.</stage>
                   </sp>
                   <stage>
-                     <pb n="11" facs="tcp:032304_0011_0FF1BBD0778F30B8"/>
+                     <pb n="11" facs="unknown:032304_0011_0FF1BBD0778F30B8"/>
                      <hi>Enter Lady</hi> Mary Raffle <hi>and Miſs</hi> Dorrillon.</stage>
                   <sp>
                      <speaker>Miſs <hi>Dor.</hi>
@@ -884,7 +884,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <p>But not ſo many lovers who would be wil<g ref="char:EOLhyphen"/>ling to receive the load. I have no Sir George Evelyn with ten thouſand pounds a year—no Mr. Bronzely.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:032304_0012_0FF1BBD50C594528"/>
+                     <pb n="12" facs="unknown:032304_0012_0FF1BBD50C594528"/>
                      <speaker>Miſs <hi>Dor.</hi>
                      </speaker>
                      <p>If you have not now, you once had: for I am ſure Bronzely once paid his addreſſes to you.</p>
@@ -1000,7 +1000,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <p>Come, Miſs Dorrillon, do not grow ſerious: laugh as much as you pleaſe, but ſay nothing that—</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:032304_0013_0FF1BBD693607AD0"/>
+                     <pb n="13" facs="unknown:032304_0013_0FF1BBD693607AD0"/>
                      <speaker>Sir <hi>Wm.</hi>
                      </speaker>
                      <stage>(To her impatiently.)</stage>
@@ -1096,7 +1096,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <p>He has offended me.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:032304_0014_0FF1BBD99F2C58C0"/>
+                     <pb n="14" facs="unknown:032304_0014_0FF1BBD99F2C58C0"/>
                      <speaker>Sir <hi>Wm.</hi>
                      </speaker>
                      <stage>(<hi>At the door, going off</hi>)</stage>
@@ -1181,7 +1181,7 @@ William Dorrillon, did ſhe know you were her father, every word you uttered, ev
                      <speaker>Miſs <hi>Dor.</hi>
                      </speaker>
                      <p>And what is very ſtrange, he has taken an averſion to me.—But it is ſtill more ſtrange, that although I
-<pb n="15" facs="tcp:032304_0015_0FF1BBDB43E2E368"/>
+<pb n="15" facs="unknown:032304_0015_0FF1BBDB43E2E368"/>
 know he has, yet in my heart I like <hi>him.</hi> He is moroſe to an inſufferable degree; but then, when by chance he ſpeaks kind, you cannot imagine how it ſoothes me.—He wants com<g ref="char:EOLhyphen"/>paſſion and all the tender virtues; and yet, I frequently think, that if any ſerious misfortune were to be<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>al me, he would be the firſt perſon to whom I ſhould fly to complain.</p>
@@ -1285,7 +1285,7 @@ know he has, yet in my heart I like <hi>him.</hi> He is moroſe to an inſuffera
                      <speaker>Miſs <hi>Dor.</hi>
                      </speaker>
                      <p>"Felicity! felicity!"—ah! that is a word
-<pb n="16" facs="tcp:032304_0016_0FF1BBE0435608D0"/>
+<pb n="16" facs="unknown:032304_0016_0FF1BBE0435608D0"/>
 not to be found in the vocabulary of my ſenſations!—<hi>ſighing.</hi>
                      </p>
                   </sp>
@@ -1347,7 +1347,7 @@ not to be found in the vocabulary of my ſenſations!—<hi>ſighing.</hi>
                      <speaker>Mr. <hi>Nor.</hi>
                      </speaker>
                      <p>HERE, Stephens, why are you out of the
-<pb n="17" facs="tcp:032304_0017_0FF1BBE355FB1EF8"/>
+<pb n="17" facs="unknown:032304_0017_0FF1BBE355FB1EF8"/>
 way? Shew the men with theſe boxes into the dreſſing-room appointed for my Lord Priory.</p>
                      <stage>(<hi>A ſervant enters on the oppoſite ſide, and the porters follow him off at a lower entrance on that ſide</hi>)</stage>
                   </sp>
@@ -1468,7 +1468,7 @@ way? Shew the men with theſe boxes into the dreſſing-room appointed for my Lo
                      <p>It is not light till eight: and what good, now could you poſſibly be doing for two hours by candle-light?</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:032304_0018_0FF1BBB0626D1C40"/>
+                     <pb n="18" facs="unknown:032304_0018_0FF1BBB0626D1C40"/>
                      <speaker>Lady <hi>Priory.</hi>
                      </speaker>
                      <p>Pray, Lady Mary, at what time did you go to bed?</p>
@@ -1552,7 +1552,7 @@ way? Shew the men with theſe boxes into the dreſſing-room appointed for my Lo
                      <p>You muſt—We are going to have a little con<g ref="char:EOLhyphen"/>cert—'Twill be impoſſible to ſleep.</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:032304_0019_0FF1BBEAE6F0DF40"/>
+                     <pb n="19" facs="unknown:032304_0019_0FF1BBEAE6F0DF40"/>
                      <speaker>Lady <hi>Mary.</hi>
                      </speaker>
                      <p>Upon my word, my Lord, your plan of management has made your wife unfit for company.</p>
@@ -1676,7 +1676,7 @@ way? Shew the men with theſe boxes into the dreſſing-room appointed for my Lo
                      </p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:032304_0020_0FF1BBEDEE2AD900"/>
+                     <pb n="20" facs="unknown:032304_0020_0FF1BBEDEE2AD900"/>
                      <speaker>Miſs <hi>Dor.</hi>
                      </speaker>
                      <p>I can't forgive you, Sir, 'ti<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1758,7 +1758,7 @@ way? Shew the men with theſe boxes into the dreſſing-room appointed for my Lo
                         </gap>inger in this houſe? Why feed my hopes with ſome propitious moment to waken her to repentance? Why <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> anxiouſly wiſh to ward off ſome dreadful fate?—If ſhe would marry ſir George, now—if ſhe would give me
-<pb n="21" facs="tcp:032304_0021_0FF1BBEF75AC66F8"/>
+<pb n="21" facs="unknown:032304_0021_0FF1BBEF75AC66F8"/>
 only <hi>one</hi> proof of diſcretion, I think I would endeavour to take her to my heart.</p>
                   </sp>
                   <stage>
@@ -1835,7 +1835,7 @@ only <hi>one</hi> proof of diſcretion, I think I would endeavour to take her to
                   <sp>
                      <speaker>Bronzely.</speaker>
                      <p>Well, then, Sir—well—you ſhall—you ſhall.—Then, Sir—in the ſmall gallery, which ſeparates the muſic-room from the reſt of theſe apartments—in that little
-<pb n="22" facs="tcp:032304_0022_0FF1BBF0FB3BA688"/>
+<pb n="22" facs="unknown:032304_0022_0FF1BBF0FB3BA688"/>
 gallery, the lamp, unfortunately, is juſt gone out.—I was (as unfortunately) coming along, when the whiſking of a woman's gown made me give a ſudden ſtart!—I found a perſon was in the gallery with me, and in the dark.</p>
                   </sp>
                   <sp>
@@ -1892,7 +1892,7 @@ gallery, the lamp, unfortunately, is juſt gone out.—I was (as unfortunately) 
                   <sp>
                      <speaker>Bronzely.</speaker>
                      <p>But would it not be more ſcandalous to reveal
-<pb n="23" facs="tcp:032304_0023_0FF1BBF289F25F18"/>
+<pb n="23" facs="unknown:032304_0023_0FF1BBF289F25F18"/>
 the ſecret of a perſon who confided in you?—who flew to you in diſtreſs, as his friend, the partner of his cares?</p>
                   </sp>
                   <sp>
@@ -1956,7 +1956,7 @@ the ſecret of a perſon who confided in you?—who flew to you in diſtreſs, a
                      <p>I do ſee—I do ſee. [<hi>Sir</hi> William <hi>moves about on his chair, and appears greatly embarraſſed. Lord</hi> Pri<g ref="char:EOLhyphen"/>ory <hi>ſtarts up in a violent paſſion—Sir</hi> William <hi>ſtarts up with him.</hi>]</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:032304_0024_0FF1BBF4D5DD7D08"/>
+                     <pb n="24" facs="unknown:032304_0024_0FF1BBF4D5DD7D08"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>I'll find him out if he is on earth—I'll find him out if—My paſſion carries me away—I have not coolneſs to detect him myſelf—I'll employ another—I'll ſend Oliver in ſearch. Oliver! [<hi>calling</hi>] Oliver! here, Oli<g ref="char:EOLhyphen"/>ver! Why don't you anſwer when you are called, you ſtupid, dull, idle, forgetful, blundering, careleſs, ſelf-ſufficient—</p>
@@ -2007,7 +2007,7 @@ the ſecret of a perſon who confided in you?—who flew to you in diſtreſs, a
                      <p>Did not I entreat you to go to-bed!</p>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:032304_0025_0FF1BBFC6C5C2F98"/>
+                     <pb n="25" facs="unknown:032304_0025_0FF1BBFC6C5C2F98"/>
                      <speaker>Lady <hi>Mary.</hi>
                      </speaker>
                      <p>Oh! this is the higheſt gratification I ever knew. My Lord! my Lord! (<hi>calling.</hi>)</p>
@@ -2086,7 +2086,7 @@ the ſecret of a perſon who confided in you?—who flew to you in diſtreſs, a
                      <speaker>Lady <hi>Mary.</hi>
                      </speaker>
                      <p>No, Bronzely, no; I have been too par<g ref="char:EOLhyphen"/>tial
-<pb n="26" facs="tcp:032304_0026_0FF1BBFDF3C36B48"/>
+<pb n="26" facs="unknown:032304_0026_0FF1BBFDF3C36B48"/>
 to you, to have any remaining claims—Hark! don't I hear Lord Priory's voice in a dreadful rage?</p>
                   </sp>
                   <sp>
@@ -2159,7 +2159,7 @@ to you, to have any remaining claims—Hark! don't I hear Lord Priory's voice in
                         </gap>n which you came, without thinking it neceſſary to in<g ref="char:EOLhyphen"/>terrupt it by any compliment to me.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:032304_0027_0FF1BBFF81AE7738"/>
+                     <pb n="27" facs="unknown:032304_0027_0FF1BBFF81AE7738"/>
                      <speaker>Bronzely.</speaker>
                      <p>I will be conciſe, Madam.—In a word<g ref="char:punc">▪</g> I wait upon you from Mr. Mandred, with the moſt humble apology for his late conduct, which he acknowledges to have been indecorous and unwarrantable: but he truſts, that in conſequence of the conceſſion which I now make for him, the whole matter wi<gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
@@ -2246,7 +2246,7 @@ to you, to have any remaining claims—Hark! don't I hear Lord Priory's voice in
                      </p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:032304_0028_0FF1BC05CAC3AD20"/>
+                     <pb n="28" facs="unknown:032304_0028_0FF1BC05CAC3AD20"/>
                      <speaker>Lady <hi>Priory.</hi>
                      </speaker>
                      <p>[<hi>after a ſecond heſitation</hi>] I do promiſe—I promiſe faithfully.</p>
@@ -2345,7 +2345,7 @@ to you, to have any remaining claims—Hark! don't I hear Lord Priory's voice in
                   <sp>
                      <speaker>Bronzely.</speaker>
                      <p>Then I will believe what you ſay to him, and
-<pb n="29" facs="tcp:032304_0029_0FF1BC08FA308BA0"/>
+<pb n="29" facs="unknown:032304_0029_0FF1BC08FA308BA0"/>
 not what you ſay to me.—And though you charge me with inconſtancy, yet I ſwear to you, my beloved Maria, (<hi>taking her hand</hi>) that no woman, no woman but yourſelf—</p>
                   </sp>
                   <stage>
@@ -2406,7 +2406,7 @@ not what you ſay to me.—And though you charge me with inconſtancy, yet I ſw
                      <p>Yes I do, Sir—I do.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:032304_0030_0FF1BC0A86AEC508"/>
+                     <pb n="30" facs="unknown:032304_0030_0FF1BC0A86AEC508"/>
                      <speaker>Sir <hi>William.</hi>
                      </speaker>
                      <p>You know, I ſuppoſe, which of the two ladies I mean?</p>
@@ -2494,7 +2494,7 @@ not what you ſay to me.—And though you charge me with inconſtancy, yet I ſw
                   <sp>
                      <speaker>Bronzely.</speaker>
                      <p>Oh, it would be impoſſible to think of marry<g ref="char:EOLhyphen"/>ing
-<pb n="31" facs="tcp:032304_0031_0FF1BC0CCFE5EE58"/>
+<pb n="31" facs="unknown:032304_0031_0FF1BC0CCFE5EE58"/>
 her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLhyphen"/>tion whether Sir George would—But if her father come home, and give her the fortune that was once expected, why then I may poſ<gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
                         </gap>bly marry her myſelf</p>
@@ -2590,7 +2590,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                         </gap> even with her.</p>
                   </sp>
                   <stage>
-                     <pb n="32" facs="tcp:032304_0032_0FF1BC11A4AC7168"/>
+                     <pb n="32" facs="unknown:032304_0032_0FF1BC11A4AC7168"/>
                      <hi>Enter Lord</hi> Priory, <hi>and takes</hi> Bronzely <hi>on one ſide.</hi>
                   </stage>
                   <sp>
@@ -2667,7 +2667,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                      <p>It can't be—I won't believe you.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:032304_0033_0FF1BC1645F9E458"/>
+                     <pb n="33" facs="unknown:032304_0033_0FF1BC1645F9E458"/>
                      <speaker>Lady <hi>Mary.</hi>
                      </speaker>
                      <p>But how generous and noble in him to take it upon himſelf!</p>
@@ -2769,7 +2769,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                         </gap>y pity you.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:032304_0034_0FF1BC17CC6E3C58"/>
+                     <pb n="34" facs="unknown:032304_0034_0FF1BC17CC6E3C58"/>
                      <speaker>Sir <hi>George.</hi>
                      </speaker>
                      <p>Inſufferable!—<hi>(going up to him.)</hi>—Inſtantly make an atonement for what you have ſaid, or expect the conſequence!</p>
@@ -2848,7 +2848,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                      <p>(<hi>in great agitation</hi>) Dear madam, I would not leave them a one for the world!</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:032304_0035_0FF1BC1B2FFBE7B0"/>
+                     <pb n="35" facs="unknown:032304_0035_0FF1BC1B2FFBE7B0"/>
                      <speaker>Lady <hi>Mary.</hi>
                      </speaker>
                      <p>Then my Lord, you and I will; they have no offenſive weapons; ſo we may venture to leave them.</p>
@@ -2942,7 +2942,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="36" facs="tcp:032304_0036_0FF1BC1CB98BCBD8"/>
+               <pb n="36" facs="unknown:032304_0036_0FF1BC1CB98BCBD8"/>
                <head>ACT IV.</head>
                <div n="1" type="scene">
                   <head>SCENE I. A Hall at Lord Priory's.</head>
@@ -3053,7 +3053,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                      <p>The ſecret!—yes, Sir—The ſecret which I was going to diſcloſe to my lady Priory—Ha, ha, ha!—But, my lord, I am afraid it is of too frivolous a nature for your attention.</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:032304_0037_0FF1BC1FD3F91D08"/>
+                     <pb n="37" facs="unknown:032304_0037_0FF1BC1FD3F91D08"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>I account nothing frivolous which concerns my wife.</p>
@@ -3143,7 +3143,7 @@ her in her preſent ſtate—for my part, I can't—and I queſ<g ref="char:EOLh
                         </gap>ly miſtake, and laugh at you, ha, ha, ha, as I did at Mr. Mandred (<hi>ſeri<g ref="char:EOLhyphen"/>ouſly</hi>—Did you ſuppoſe, ſir, we lived like perſons of faſhion of the modern <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>? Did you imagine that a woman of her
-<pb n="38" facs="tcp:032304_0038_0FF1BC22DD41D670"/>
+<pb n="38" facs="unknown:032304_0038_0FF1BC22DD41D670"/>
 character could have a wiſh, a deſire, even a thought, a ſe<g ref="char:EOLhyphen"/>cret from her huſband?</p>
                   </sp>
                   <sp>
@@ -3231,7 +3231,7 @@ character could have a wiſh, a deſire, even a thought, a ſe<g ref="char:EOLhy
                         </gap>ent.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:032304_0039_0FF1BC2613EB3E40"/>
+                     <pb n="39" facs="unknown:032304_0039_0FF1BC2613EB3E40"/>
                      <speaker>Bronzely.</speaker>
                      <p>My dear friend, I'll accept it.</p>
                   </sp>
@@ -3337,7 +3337,7 @@ character could have a wiſh, a deſire, even a thought, a ſe<g ref="char:EOLhy
                      <p>No—but I have met with an accident or two lately—and I am not ſo well acquainted with ancient uſages as to know in what manner a man of my purſuits would have been treated in former times.</p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:032304_0040_0FF1BC281EAE4750"/>
+                     <pb n="40" facs="unknown:032304_0040_0FF1BC281EAE4750"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>A man of your purſuits. Mr. Bronzely, is of a very late date; and to be ſhamed out of them by a wife like mine.</p>
@@ -3436,7 +3436,7 @@ character could have a wiſh, a deſire, even a thought, a ſe<g ref="char:EOLhy
                      <p>[<hi>ſtarting.</hi>] "Will not"—"Will not", when I deſire you!</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:032304_0041_0FF1BC2B689075E0"/>
+                     <pb n="41" facs="unknown:032304_0041_0FF1BC2B689075E0"/>
                      <speaker>Miſs <hi>Dor.</hi>
                      </speaker>
                      <p>No—ſince you refuſe me protection, I'll pro<g ref="char:EOLhyphen"/>tect myſelf.</p>
@@ -3551,7 +3551,7 @@ character could have a wiſh, a deſire, even a thought, a ſe<g ref="char:EOLhy
                         </gap>s—(<hi>takes the writ</hi>)—"Elizabeth Dorrillon for ſix hundred pounds." Pray ſir, is it cuſtomary to have female names on pieces of paper of this denomination?</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:032304_0042_0FF1BC301E9DCC90"/>
+                     <pb n="42" facs="unknown:032304_0042_0FF1BC301E9DCC90"/>
                      <speaker>Nabſon.</speaker>
                      <p>Oh, yes, ſir, very cuſtomary. There are as many ladies who will run into tradeſmen's books, as there are gentlemen; and when one goes to take the ladies, they are a thouſand times more ſlippery to catch than the men.</p>
                   </sp>
@@ -3626,7 +3626,7 @@ character could have a wiſh, a deſire, even a thought, a ſe<g ref="char:EOLhy
                         <hi>Sir</hi> William</speaker>
                      <p>
                         <hi>(looking after her.)</hi> And perhaps I <hi>could</hi> for<g ref="char:EOLhyphen"/>give you. But I muſt not. No, this is juſtice—this is doing
-<pb n="43" facs="tcp:032304_0043_0FF1BC3360D4E840"/>
+<pb n="43" facs="unknown:032304_0043_0FF1BC3360D4E840"/>
 my duty—this is ſtrength of mind—this is fortitude—forti<g ref="char:EOLhyphen"/>tude—fortitude. <hi>(He walks proudly acroſs the <gap reason="illegible" resp="#AELD" extent="3 letters">
                               <desc>•••</desc>
                            </gap>n, then ſtops, takes out his handkerchief, throws his head into it, and is going off.)</hi>
@@ -3748,7 +3748,7 @@ my duty—this is ſtrength of mind—this is fortitude—forti<g ref="char:EOLh
                      <speaker>Sir <hi>Wm.</hi>
                      </speaker>
                      <p>No—whatever the diſcontented may pleaſe to ſay, the world is affectionate, is generous, to the good; more eſpecially to the good of the female ſex; for it is only an ex<g ref="char:EOLhyphen"/>ception
-<pb n="44" facs="tcp:032304_0044_0FF1BC37EB766378"/>
+<pb n="44" facs="unknown:032304_0044_0FF1BC37EB766378"/>
 to a general rule, when a good woman is in pecuniary diſtreſs.</p>
                      <stage>
                         <hi>(Exit Sir</hi> Wm.</stage>
@@ -3829,7 +3829,7 @@ to a general rule, when a good woman is in pecuniary diſtreſs.</p>
                      <p>He was my friend the time before.</p>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:032304_0045_0FF1313E73D107A8"/>
+                     <pb n="45" facs="unknown:032304_0045_0FF1313E73D107A8"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>Mr. Bronzely, then.</p>
@@ -3935,7 +3935,7 @@ to a general rule, when a good woman is in pecuniary diſtreſs.</p>
                      <p>Nobody! not a ſoul to be ſeen!</p>
                   </sp>
                   <sp>
-                     <pb n="46" facs="tcp:032304_0046_0FF1BC3AF58A8EE8"/>
+                     <pb n="46" facs="unknown:032304_0046_0FF1BC3AF58A8EE8"/>
                      <speaker>Lord, <hi>Priory</hi>
                      </speaker>
                      <p>(<hi>affecting indifference.</hi>) Oh! ſhe has been playing Bronzely ſome trick! She has been hiding him; and in ſome miſerable place!</p>
@@ -4014,7 +4014,7 @@ to a general rule, when a good woman is in pecuniary diſtreſs.</p>
                   <sp>
                      <speaker>Hous.</speaker>
                      <p>Dinner enough for twelve, and only two to ſit
-<pb n="47" facs="tcp:032304_0047_0FF1BC3E24CC41F0"/>
+<pb n="47" facs="unknown:032304_0047_0FF1BC3E24CC41F0"/>
 down to it! Come home without one preparation—not a bed aired, or the furniture uncovered.</p>
                   </sp>
                   <sp>
@@ -4108,7 +4108,7 @@ down to it! Come home without one preparation—not a bed aired, or the furnitur
                      <p>(<hi>aſide.</hi>) This compoſure is worſe than reproach—a woman who meant to yield would be outrageous.—<hi>(Goes to ſpeak to her, then turns away.</hi>) By heaven ſhe looks ſo reſ<g ref="char:EOLhyphen"/>pectable in that employment, I am afraid to inſult her. (<hi>Af<g ref="char:EOLhyphen"/>ter a ſtruggle with himſelf.</hi>) Ah! don't you fear me?</p>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:032304_0048_0FF1BC3FAF2B3200"/>
+                     <pb n="48" facs="unknown:032304_0048_0FF1BC3FAF2B3200"/>
                      <speaker>Lady <hi>Priory.</hi>
                      </speaker>
                      <p>No—for <hi>your</hi> fears will protect me—I have no occaſion for my own.</p>
@@ -4179,7 +4179,7 @@ down to it! Come home without one preparation—not a bed aired, or the furnitur
                   <sp>
                      <speaker>Bronzely.</speaker>
                      <p>Then tell him he muſt perform his journey in
-<pb n="49" facs="tcp:032304_0049_0FF1BC41DD20BDC8"/>
+<pb n="49" facs="unknown:032304_0049_0FF1BC41DD20BDC8"/>
 half an hour—If he is a moment longer, my reſolution will ſtop on the road. <hi>(Exit</hi> Ser.) I feel my good deſigns ſteal<g ref="char:EOLhyphen"/>ing away a<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>read<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -4247,7 +4247,7 @@ half an hour—If he is a moment longer, my reſolution will ſtop on the road. 
                      <p>It is not to your honour that you think it neceſ<g ref="char:EOLhyphen"/>ſary to give this ſtatement of your mind.</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:032304_0050_0FF1BC49827B0668"/>
+                     <pb n="50" facs="unknown:032304_0050_0FF1BC49827B0668"/>
                      <speaker>Sir <hi>Wm.</hi>
                      </speaker>
                      <p>May be—but I never boaſted of perfection, though I can boaſt of grief that I am ſo far beneath it. I can boaſt too, that, though I frequently give offence to others. I could never part with any one for ever (as I now ſhall with you), without endeavouring to make ſome atonement.</p>
@@ -4338,7 +4338,7 @@ half an hour—If he is a moment longer, my reſolution will ſtop on the road. 
                      </speaker>
                      <p>
                         <hi>(after a pauſe.)</hi> Well, I will diſpenſe with
-<pb n="51" facs="tcp:032304_0051_0FF1BC4B096A37A0"/>
+<pb n="51" facs="unknown:032304_0051_0FF1BC4B096A37A0"/>
 this condition—but there is another I muſt ſubſtitute in its ſtead.—Reſolve to paſs the remainder of your life, ſome few enſuing years at leaſt, in the country. <hi>(She ſtarts.)</hi> Do you ſtart at that?</p>
                   </sp>
                   <sp>
@@ -4439,7 +4439,7 @@ this condition—but there is another I muſt ſubſtitute in its ſtead.—Reſ
                      <p>To put you out of apprehenſion at once—your father is not coming home—nor will he ever return to his own country.</p>
                   </sp>
                   <sp>
-                     <pb n="52" facs="tcp:032304_0052_0FF1BC4C93DBB998"/>
+                     <pb n="52" facs="unknown:032304_0052_0FF1BC4C93DBB998"/>
                      <speaker>Miſs <hi>Dor.</hi>
                      </speaker>
                      <stage>(ſtarting.)</stage>
@@ -4531,7 +4531,7 @@ this condition—but there is another I muſt ſubſtitute in its ſtead.—Reſ
                      <p>Provoking<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> not an anſwer to one of my
-<pb n="53" facs="tcp:032304_0053_0FF1BC530DD67EE8"/>
+<pb n="53" facs="unknown:032304_0053_0FF1BC530DD67EE8"/>
 pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> a creature to come and condole with me!—Oh that <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -4614,7 +4614,7 @@ pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <p>Pray, Sir, did not you tell me, you had a very young lady under your care?</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:032304_0054_0FF1BC561C277D30"/>
+                     <pb n="54" facs="unknown:032304_0054_0FF1BC561C277D30"/>
                      <speaker>Man.</speaker>
                      <p>Yes, Sir, ſo I had—but ſhe, it ſeems, has juſt been releaſed, and is gone away with the gentleman who paid the debt</p>
                   </sp>
@@ -4698,7 +4698,7 @@ pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <p>A very tender one—don't be alarmed—I am her father.</p>
                   </sp>
                   <sp>
-                     <pb n="55" facs="tcp:032304_0055_0FF1BC592B54B278"/>
+                     <pb n="55" facs="unknown:032304_0055_0FF1BC592B54B278"/>
                      <speaker>Sir <hi>George.</hi>
                      </speaker>
                      <p>Sir Wm. Dorrillon? (<hi>They talk apart.</hi>)</p>
@@ -4788,7 +4788,7 @@ pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
                         </gap>ſt re<g ref="char:EOLhyphen"/>ſtraint might there act as my enemy. But your authority, your prerogative your honour attached to her under my roof. She has held thoſe rights ſacred, and compelled even <hi>me</hi> to revere them.</p>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:032304_0056_0FF1BC5AC6D8E248"/>
+                     <pb n="56" facs="unknown:032304_0056_0FF1BC5AC6D8E248"/>
                      <speaker>Lord <hi>Priory.</hi>
                      </speaker>
                      <p>Do you all hear? I was ſure it would turn out ſo!</p>
@@ -4910,7 +4910,7 @@ pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
                         </gap> female ſlave.</p>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:032304_0057_0FF1BC5DD1ECE5D0"/>
+                     <pb n="57" facs="unknown:032304_0057_0FF1BC5DD1ECE5D0"/>
                      <speaker>Lady <hi>Mary.</hi>
                      </speaker>
                      <p>Do you hear? Do you all hear? My Lord, do <hi>you</hi> hear?</p>
@@ -4995,7 +4995,7 @@ pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <p>Any controul, rather than have no chief magiſtrate at all.</p>
                   </sp>
                   <sp>
-                     <pb n="58" facs="tcp:032304_0058_0FF1BC6267216138"/>
+                     <pb n="58" facs="unknown:032304_0058_0FF1BC6267216138"/>
                      <speaker>Sir <hi>George</hi>
                      </speaker>
                      <stage>[<hi>to Miſs</hi> Dor.]</stage>
@@ -5078,7 +5078,7 @@ pathetic letters!—no<gap reason="illegible" resp="#AELD" extent="1 letter">
       </body>
       <back>
          <div type="end_title">
-            <pb facs="tcp:032304_0059_0FF1BC63FA9479A8"/>
+            <pb facs="unknown:032304_0059_0FF1BC63FA9479A8"/>
             <head>WIVES AS THEY WERE, AND MAIDS AS THEY ARE: A COMEDY,</head>
             <byline>BY MRS. INCHBALD.</byline>
             <p>Performed at the <hi>London</hi> and <hi>Dublin</hi> Theatres with univerſal applauſe—and at <hi>Greenwich-ſtreet, New-York.</hi>
